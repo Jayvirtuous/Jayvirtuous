@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayvirtuousus
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on you
+- 💞️ I’m looking forward to collaborate with you
 - 📫 You can reach me @ emmanuelolori017@gmail.com
 
 <!---
